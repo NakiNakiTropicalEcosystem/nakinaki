@@ -1,11 +1,35 @@
-.body   {width: 2000px}
-.jumbotron {
-    padding-top: 5rem;
-    background-color: #e2edff;
-}
-#projects   {
-    background-color: #e2edff;
+
+.jumbotron{
+padding-top: 5rem;
+background-color: #e2edff;}
+
+#projects {
+    background-color: #11151d;
 }
 section {
+
     padding-top: 5rem;
 }
+.insta {
+    width: 1000px;
+    margin: 100px auto;
+    background-color: white;
+    position: relative;}
+.ig {
+    width: 500px;
+    height: 500px;
+    background-image: url(../ig.png);
+    background-repeat: no-repeat;
+    display: inline-block;
+    text-indent: -9999px;
+    position: absolute;
+    top: 60px;
+    right: 1px;  
+    text-indent: -9999px;
+    position: absolute;
+}
+.sidebar img{
+    width: 120px;
+    height: 200px;
+    float: left;
+    padding-right: 5px; }
